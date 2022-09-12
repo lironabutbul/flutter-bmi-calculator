@@ -83,7 +83,7 @@ BMI Calculator App is an Body Mass Index (BMI) calculator that measures your BMI
 
 Here is the code folder structure.
 ```
-weatrio/
+bmicalc/
 |- android
 |- ios
 |- lib/
@@ -230,7 +230,7 @@ Project Link: [https://github.com/ladunjexa/bmi-calculator-app](https://github.c
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-This section used to mention useful resources and libraries that used in Weatrio App project.
+This section used to mention useful resources and libraries that used in BMI Calculator App project.
 
  - [FontAwesomeFlutter](https://pub.dev/packages/font_awesome_flutter/)
  - #FlutterBrew
