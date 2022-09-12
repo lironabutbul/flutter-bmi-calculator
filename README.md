@@ -104,13 +104,15 @@ This folder houses all the components listed above which they are custom flutter
 
 #### screens (activities)
 
-`input_page.dart` - This code implementing the UI (User Interface) of the calculator screen, where the user need to provide necessary information for calculating user's BMI. Take a look of this activity at the top
+`input_page.dart` - This code implementing the UI (User Interface) of the calculator screen, where the user need to provide necessary information for calculating user's BMI. Take a look of this activity at [About The Project](#star2-about-the-project) section.
 
-`results_page.dart` - This code implementing the UI (User Interface) of the results screen, there the user is shown his BMI, a classification group, a customized message and the standard BMI range.
-
+`results_page.dart` - This code implementing the UI (User Interface) of the results screen, there the user is shown his BMI, a classification group, a customized message and the standard BMI range. Take a look at this activity at [About The Project](#star2-about-the-project} section.
 #### lib
 
 `calculator_brain.dart` - This code implementing the `CalculatorBrain` class, where the necessary calculations and conditionals are performed to provide a result to the user that contains the BMI, group classification and interpretation.
+
+
+Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
 
 Method for calculating BMI:
 ```javascript
@@ -119,7 +121,7 @@ String calculateBMI() {
   return _bmi.toStringAsFixed(1); // converts this _bmi to a double before computing the string representation, as by toDouble - with exactly {fractionDigits} digits after the decimal point
 }
 ```
-Formula for calculating BMI: $\frac{weight}{height^2}$ ( $\frac{kg}{m^2}$ )
+Formula for calculating BMI: $\frac{weight}{height^2}$
 
 `constants.dart` - All the application level constants. Specifically, this constants.dart file contains theme classes for app widgets.
 
