@@ -100,7 +100,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 
 `bottom_button.dart` - `icon_content.dart` - `reusable_card.dart` - `rounded_icon_button.dart`
 
-This folder houses all the components listed above which they are custom flutter widgets with beautiful customized theme using Composition and Inheritance technique.
+This folder houses all the components listed above which they are custom flutter widgets with beautiful customized theme using Composition and Inheritance.
 
 #### screens (activities)
 
