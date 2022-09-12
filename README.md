@@ -72,8 +72,8 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/input_page.png" height="auto" width="200" />
-  <img src="readme_assets/result_page.png" height="auto" width="200" />
+  <img src="readme_assets/input_page.png" height="auto" width="25%" />
+  <img src="readme_assets/result_page.png" height="auto" width="25%" />
 </div>
 <br />
 BMI Calculator App is an Body Mass Index (BMI) calculator that measures your BMI table with decimal precision based on your height, age and sex using custom widgets in flutter ⚖
