@@ -111,9 +111,6 @@ This folder houses all the components listed above which they are custom flutter
 
 `calculator_brain.dart` - This code implementing the `CalculatorBrain` class, where the necessary calculations and conditionals are performed to provide a result to the user that contains the BMI, group classification and interpretation.
 
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
 Method for calculating BMI:
 ```javascript
 String calculateBMI() {
